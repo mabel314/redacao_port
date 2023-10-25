@@ -11,8 +11,6 @@
   <input type="text" id="fname" name="fname"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname">
-</form>
-
-    <img src="images/firefox-icon.png" alt="minha página de teste" />
+    </form>
   </body>
 </html>
